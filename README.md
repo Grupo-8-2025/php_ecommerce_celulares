@@ -1,44 +1,34 @@
-# 📱 E-commerce – Loja de Celulares
+# Sistema de E-commerce de Celulares
 
-Bem-vindo ao repositório **E-commerce de Celulares**! Este projeto foi desenvolvido como trabalho prático da matéria Aplicações para WEB 2 no curso técnico de informática do CEFET-MG.
-O projeto consiste numa loja de celulares, construída para fins didáticos, utilizando **PHP** e a arquitetura **Model-View-Controller (MVC)**.
+Sistema em PHP para simular uma loja virtual de celulares, permitindo visualizar produtos, adicioná-los ao carrinho e realizar o processo de compra. Este projeto foi desenvolvido como trabalho prático de Aplicações para WEB 2 no curso técnico de informática do CEFET-MG, utilizando arquitetura **Model-View-Controller (MVC)**.
 
 > **Observação:** O projeto é **fictício**, desenvolvido para fins didáticos.
 
-## ✔ Requisitos:
-- XAMPP instalado
-- MySQL instalado
+## Funcionalidades do Administrador:
+- Cadastrar produtos
+- Editar produtos
+- Excluir produtos
+- Visualizar produtos cadastrados
+
+## Funcionalidades do Usuário:
+- Cadastrar no sistema
+- Logar no sistema
+- Visualizar informações dos produtos
+- Filtrar listagem de produtos
+- Adicionar produtos ao carrinho
+- Excluir itens do carrinho
   
-## ⚙️ Configuração
+## Tecnologias:
+- PHP
+- HTML e CSS
+- MySQL
+- XAMPP
+- VS Code
 
-Siga as etapas abaixo:
-
-1. Clone ou Baixe o Repositório
-   - Baixe e extraia o arquivo zip
-   - Copie o projeto principal (pasta ecommerce_celulares) para a pasta C:\xampp\htdocs no Disco Local
-     
-2. Configuração do Projeto
-   - Abra o XAMPP e inicie o Apache e o MySQL
-   - Abra o SGBD de sua preferência (SQL Server, phMyAdmin) e rode o script do arquivo: script_banco.txt
-   - Abra o navegador e digite no campo de pesquisa http://localhost/ecommerce_celulares/View/TelaLogin.php
-   - Teste o projeto
-
----
-
-## 🛒 Deseja comprar um celular?
-
-Seus problemas acabaram!  
-Com esta criação de **Davi**, **Matheus** e **Samuel**, comprar um celular ficou muito mais fácil e intuitivo.
-
-No site você pode:
-
-- 📲 Escolher entre diversos modelos de celulares  
-- 🛍️ Adicioná-los ao carrinho  
-- 💳 Finalizar sua compra de forma simples e direta  
-
-Aproveite e explore o site! 😄
-
-<img width="1200" height="675" alt="preview" src="https://github.com/user-attachments/assets/12bdf341-d6ac-444c-8934-2a8f0aaa767a" /><br>
-
-
-> **Observação:** Ignore o texto dessa seção (**Deseja comprar um celular?**), pois é **fictício**.
+## Como executar
+1. Baixe e extraia o arquivo zip do projeto
+2. Copie a pasta principal do projeto (pasta **ecommerce_celulares**) para a pasta **C:\xampp\htdocs**
+3. Abra o SGBD de sua preferência e rode o script do arquivo: **script_banco.txt**
+4. Abra o XAMPP e inicie o Apache e o MySQL
+5. Abra o navegador e digite no campo de pesquisa **localhost/ecommerce_celulares/View/TelaLogin.php**
+6. Teste o projeto
