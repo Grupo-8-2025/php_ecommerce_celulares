@@ -6,13 +6,13 @@ Sistema em PHP para simular uma loja virtual de celulares, permitindo visualizar
 
 ---
 
-## Funcionalidades do administrador:
+## Funcionalidades do administrador
 - Cadastrar produtos
 - Editar produtos
 - Excluir produtos
 - Visualizar produtos cadastrados
 
-## Funcionalidades do usuário:
+## Funcionalidades do usuário
 - Cadastrar no sistema
 - Logar no sistema
 - Visualizar informações dos produtos
@@ -20,7 +20,7 @@ Sistema em PHP para simular uma loja virtual de celulares, permitindo visualizar
 - Adicionar produtos ao carrinho
 - Excluir itens do carrinho
   
-## Tecnologias:
+## Tecnologias usadas
 - PHP
 - HTML e CSS
 - MySQL
