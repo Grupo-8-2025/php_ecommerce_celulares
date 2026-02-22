@@ -4,6 +4,8 @@ Sistema em PHP para simular uma loja virtual de celulares, permitindo visualizar
 
 > **Observação:** O projeto é **fictício**, desenvolvido para fins didáticos.
 
+---
+
 ## Funcionalidades do administrador:
 - Cadastrar produtos
 - Editar produtos
@@ -25,6 +27,8 @@ Sistema em PHP para simular uma loja virtual de celulares, permitindo visualizar
 - XAMPP
 - VS Code
 
+---
+
 ## Como executar
 1. Baixe e extraia o arquivo zip do projeto
 2. Copie a pasta principal do projeto (pasta **ecommerce_celulares**) para a pasta **C:\xampp\htdocs**
@@ -32,6 +36,8 @@ Sistema em PHP para simular uma loja virtual de celulares, permitindo visualizar
 4. Abra o XAMPP e inicie o Apache e o MySQL
 5. Abra o navegador e digite no campo de pesquisa **localhost/ecommerce_celulares/View/TelaLogin.php**
 6. Teste o projeto
+
+---
 
 ## Observação importante
 Este projeto utilizou inteligências artificiais generativas como apoio no desenvolvimento, conforme descrito no relatório do trabalho, sendo empregadas para auxiliar na elaboração de código, organização do projeto e documentação.
