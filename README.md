@@ -40,4 +40,4 @@ Sistema em PHP para simular uma loja virtual de celulares, permitindo visualizar
 ---
 
 ## Observação importante
-Este projeto utilizou inteligências artificiais generativas como apoio no desenvolvimento, conforme descrito no relatório do trabalho, sendo empregadas para auxiliar na elaboração de códigos, correção de erros de lógica, organização do projeto e documentação.
+Este projeto utilizou inteligências artificiais generativas como apoio no desenvolvimento, conforme descrito no relatório do trabalho, sendo empregadas para auxiliar na elaboração dos códigos, correção de erros de lógica, organização do projeto e documentação.
