@@ -1,18 +1,38 @@
-# Sistema de E-commerce de Celulares
+# E-commerce de Celulares
 
-Sistema em PHP para simular uma loja virtual de celulares, permitindo visualizar produtos, adicioná-los ao carrinho e realizar o processo de compra. Este projeto foi desenvolvido como trabalho prático de Aplicações para WEB 2 no curso técnico de informática do CEFET-MG, utilizando arquitetura **Model-View-Controller (MVC)**.
+Sistema web desenvolvido em PHP que simula uma loja virtual de celulares, permitindo cadastro e visualização de produtos, adição ao carrinho e interação com a loja virtual.
 
-> **Observação:** O projeto é **fictício**, desenvolvido para fins didáticos.
+O projeto foi desenvolvido como trabalho prático da disciplina Aplicações para Web II, no curso técnico em Informática do CEFET-MG, utilizando a arquitetura Model-View-Controller (MVC) para organização e separação de responsabilidades.
+
+## Status do Projeto
+
+Projeto estável e pronto para uso.
+
+Este projeto foi desenvolvido para fins acadêmicos e não está mais em manutenção. O projeto é mantido aqui como demonstração de conceito e aprendizado.
 
 ---
 
-## Funcionalidades do administrador
+## Objetivos
+- Praticar desenvolvimento backend com PHP
+- Aprender e praticar Programação Orientada a Objetos em PHP
+- Implementar operações de CRUD com integração ao banco de dados MySQL
+- Trabalhar com manipulação de dados no servidor (requisições, formulários e respostas)
+- Consolidar o uso de SQL em operações reais dentro de uma aplicação web
+- Estudar e implementar o padrão de projeto MVC
+
+## Funcionalidades 
+
+O sistema possui funcionalidades para administradores e usuários, permitindo gerenciar produtos e interagir com a loja virtual.
+
+### Funcionalidades do Administrador
+- Cadastrar no sistema
+- Logar no sistema
 - Cadastrar produtos
 - Editar produtos
 - Excluir produtos
 - Visualizar produtos cadastrados
 
-## Funcionalidades do usuário
+### Funcionalidades do Usuário
 - Cadastrar no sistema
 - Logar no sistema
 - Visualizar informações dos produtos
@@ -20,24 +40,38 @@ Sistema em PHP para simular uma loja virtual de celulares, permitindo visualizar
 - Adicionar produtos ao carrinho
 - Excluir itens do carrinho
   
-## Tecnologias usadas
+## Tecnologias Usadas
 - PHP
-- HTML e CSS
+- HTML
+- CSS
+- SQL
 - MySQL
 - XAMPP
+- Padrão de projeto MVC
 - VS Code
+- GitHub Copilot
+- Live Share
 
 ---
 
-## Como executar
-1. Baixe e extraia o arquivo zip do projeto
-2. Copie a pasta principal do projeto (pasta **ecommerce_celulares**) para a pasta **C:\xampp\htdocs**
-3. Abra o SGBD de sua preferência e rode o script do arquivo: **script_banco.txt**
+## Como Executar 
+
+### Requisitos
+- Servidor local
+- PHP 7.0 ou superior
+- MySQL
+
+### Execução
+1. Baixe e extraia o arquivo `.zip` do projeto
+2. Copie a pasta `php_ecommerce_celulares-main` para `C:\xampp\htdocs`
+3. Abra o SGBD de sua preferência e execute o script do arquivo `script_banco.txt`
 4. Abra o XAMPP e inicie o Apache e o MySQL
-5. Abra o navegador e digite no campo de pesquisa **localhost/ecommerce_celulares/View/TelaLogin.php**
+5. Abra o navegador e digite no campo de pesquisa `localhost/php_ecommerce_celulares-main/index.php`
 6. Teste o projeto
 
 ---
 
-## Observação importante
-Este projeto utilizou inteligências artificiais generativas como apoio no desenvolvimento, conforme descrito no relatório do trabalho, sendo empregadas para auxiliar na elaboração dos códigos, correção de erros de lógica, organização do projeto e documentação.
+## Observação Importante
+Este projeto contou com o apoio de inteligências artificiais generativas no desenvolvimento, auxiliando na implementação de códigos, correção de erros, bem como na organização e documentação do projeto. Para mais detalhes, consulte `2025-12-10-Relatorio-Projeto-Final.pdf`. 
+
+---
