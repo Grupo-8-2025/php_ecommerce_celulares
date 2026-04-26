@@ -57,17 +57,19 @@ O sistema possui funcionalidades para administradores e usuários, permitindo ge
 ## Como Executar 
 
 ### Requisitos
-- Servidor local
+- XAMPP
 - PHP 7.0 ou superior
 - MySQL
 
 ### Execução
 1. Baixe e extraia o arquivo `.zip` do projeto
 2. Copie a pasta `php_ecommerce_celulares-main` para `C:\xampp\htdocs`
-3. Abra o SGBD de sua preferência e execute o script do arquivo `script_banco.txt`
+3. Abra o phpMyAdmin e execute o script do arquivo `script_banco.txt`
 4. Abra o XAMPP e inicie o Apache e o MySQL
-5. Abra o navegador e digite no campo de pesquisa `localhost/php_ecommerce_celulares-main/index.php`
+5. Acesse o projeto no navegador: `localhost/php_ecommerce_celulares-main/index.php`
 6. Teste o projeto
+
+> Este projeto também pode funcionar em outros servidores locais e sistemas de banco de dados compatíveis com PHP e SQL, com pequenas adaptações de configuração.
 
 ---
 
